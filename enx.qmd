@@ -1,0 +1,37 @@
+---
+title: "Enexis - net congestion"
+date    : today
+date-format: long
+title-slide-attributes:
+    data-background-color: "#E91E72"
+    data-background-size: cover
+    data-background-opacity: "1"
+author: ""
+format: 
+  revealjs:
+    slide-number: true
+    slide-tone: false
+    multiplex: false
+    chalkboard: 
+      buttons: false
+      theme: whiteboard
+    preview-links: auto
+    link-external-newwindow: true
+    link-external-icon: true
+    logo: images/BrainStorm.png
+    theme: [dark]
+    width: 1600
+    height: 900
+    css: git.css
+editor: visual
+---
+
+```{r}
+# https://coolors.co/3e074a-0f431c-fde8e9-f0f600
+# Colors
+"#E91E72"
+
+
+```
+
+## {background-video="https://smart-r.toadtips.com/jads/enexis_lng.mp4?autoplay=1" background-size="cover" background-color="#E91E72" id="intro"}
