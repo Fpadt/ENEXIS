@@ -22,11 +22,11 @@ format:
     theme: [dark]
     width: 1600
     height: 900
-    css: git.css
+    css: enx.css
 editor: visual
 ---
 
-```{r}
+```{r, eval=false}
 # https://coolors.co/3e074a-0f431c-fde8e9-f0f600
 # Colors
 "#E91E72"
