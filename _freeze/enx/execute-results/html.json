@@ -1,7 +1,7 @@
 {
-  "hash": "3b39cc3cc4c052290a224578b2a7a965",
+  "hash": "cd72e6184aadfd90409d87927e25dd3d",
   "result": {
-    "markdown": "---\ntitle: \"Enexis - net congestion\"\ndate    : today\ndate-format: long\ntitle-slide-attributes:\n    data-background-color: pin\n    data-background-size: cover\n    data-background-opacity: \"1\"\nauthor: \n  - Floris Padt\n  - sd\n  - sd\n  - ssd \nformat: \n  revealjs:\n    slide-number: true\n    slide-tone: false\n    multiplex: false\n    chalkboard: \n      buttons: false\n      theme: whiteboard\n    preview-links: auto\n    link-external-newwindow: true\n    link-external-icon: true\n    logo: images/BrainStorm.png.png\n    theme: [dark]\n    width: 1600\n    height: 900\n    css: git.css\neditor: visual\n---\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"#E91E72\"\n```\n:::\n:::\n\n\n# {background-color=\"#E91E72\" id=\"enexis\"}\n\n## {background-video=\"https://smart-r.toadtips.com/jads/enexis_lng.mp4?autoplay=1\" background-size=\"cover\" background-color=\"#E91E72\" id=\"intro\" visibility=\"uncounted\"}\n",
+    "markdown": "---\ntitle: \"Enexis - net congestion\"\ndate    : today\ndate-format: long\ntitle-slide-attributes:\n    data-background-color: \"#E91E72\"\n    data-background-size: cover\n    data-background-opacity: \"1\"\nauthor: \"\"\nformat: \n  revealjs:\n    slide-number: true\n    slide-tone: false\n    multiplex: false\n    chalkboard: \n      buttons: false\n      theme: whiteboard\n    preview-links: auto\n    link-external-newwindow: true\n    link-external-icon: true\n    logo: images/BrainStorm.png\n    theme: [dark]\n    width: 1600\n    height: 900\n    css: enx.css\neditor: visual\n---\n\n::: {.cell}\n\n:::\n\n\n## {background-video=\"https://smart-r.toadtips.com/jads/enexis_lng.mp4?autoplay=1\" background-size=\"cover\" background-color=\"#E91E72\" id=\"intro\"}\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

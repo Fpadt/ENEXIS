@@ -26,7 +26,7 @@ format:
 editor: visual
 ---
 
-```{r, eval=false}
+```{r, eval=FALSE}
 # https://coolors.co/3e074a-0f431c-fde8e9-f0f600
 # Colors
 "#E91E72"
