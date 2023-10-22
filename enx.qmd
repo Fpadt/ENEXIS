@@ -35,3 +35,38 @@ editor: visual
 ```
 
 ## {background-video="https://smart-r.toadtips.com/jads/enexis_lng.mp4?autoplay=1" background-size="cover" background-color="#E91E72" id="intro"}
+
+##
+
+{{< video https://www.youtube.com/watch?v=LNBiUDtoQ3g?autoplay=1
+    title="JADS"
+    start="0"
+    width="100%"
+    height="100%"
+>}}
+
+## impression
+
+::: {.r-stack}
+
+![](./images/postnl_no_1.webp){.fragment .fade-in-then-out height="1080" .absolute top=0 left=0}
+
+![](./images/postnl_nw_1.webp){.fragment .fade-in-then-out  height="1080" .absolute top=0 left=0}
+
+![](./images/postnl_total.webp){.fragment .fade-in-then-out   .center}
+
+![](./images/postnl_van_dock.webp){.fragment .fade-in-then-out  height="1080" .absolute top=0 left=150}
+
+![](./images/postnl_truck_dock.webp){.fragment .fade-in-then-out  height="1080" .absolute top=0 left=150}
+
+![](./images/postnl_solar.webp){.fragment .fade-in-then-out  height="1080" .absolute top=0 left=150}
+:::
+
+##
+
+{{< video https://youtu.be/HNOXHWnND8s?autoplay=1
+    title="JADS"
+    start="0"
+    width="100%"
+    height="100%"
+>}}
