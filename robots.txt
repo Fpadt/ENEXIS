@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Fpadt/enexis/sitemap.xml
+Sitemap: https://enexis.smart-r.nl/sitemap.xml
