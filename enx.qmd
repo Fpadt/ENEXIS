@@ -1,25 +1,26 @@
 ---
 title: "Enexis - net congestion"
+author: "C2"
 date    : today
 date-format: long
 title-slide-attributes:
-    data-background-color: "#E91E72"
+    data-background-color: "#FF0076"
     data-background-size: cover
     data-background-opacity: "1"
-author: ""
 format: 
   revealjs:
     slide-number: true
     slide-tone: false
     multiplex: false
     chalkboard: 
-      buttons: false
+      buttons: true
       theme: whiteboard
+      boardmarker-width: 5
     preview-links: auto
     link-external-newwindow: true
     link-external-icon: true
     logo: images/BrainStorm.png
-    theme: [dark]
+    theme: [dark, enx.scss]
     width: 1600
     height: 900
     css: enx.css
@@ -29,7 +30,8 @@ editor: visual
 ```{r, eval=FALSE}
 # https://coolors.co/3e074a-0f431c-fde8e9-f0f600
 # Colors
-"#E91E72"
+"#FF0076"
+"#B1DC00"
 
 
 ```
